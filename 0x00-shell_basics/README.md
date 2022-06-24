@@ -1,1 +1,1 @@
-5 list files digit only
+6 first direectory
