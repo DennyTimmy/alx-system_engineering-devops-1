@@ -7,3 +7,5 @@
 5-local_variables 5-local_variables
 7-create_global_variable Global variable
 8-true_knowledge Every addition to true knowledge is an addition to human power
+9-divide_and_rule
+10-love_exponent_breath
