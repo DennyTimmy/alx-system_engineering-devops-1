@@ -15,3 +15,4 @@
 (14) script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 (15) script that moves all files beginning with an uppercase letter to the directory /tmp/u. You can assume that the directory /tmp/u will exist when we will run your script
 
+(16) Clean Emacs (17) Tree (18) Life is a series of commas, not periods (19) File type: School
