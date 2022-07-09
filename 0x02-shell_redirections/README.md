@@ -1,4 +1,4 @@
-==>INTRODUCTORY README<==
+# INTRODUCTORY README
 -----
 --> This is the second project of the shell basics and redirection
 
