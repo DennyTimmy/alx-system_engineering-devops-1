@@ -4,7 +4,7 @@
 
 --> It is the directory containing the shell redirection commands
 
-#LISTED BELOW ARE THE ORDER OF THE TASKS.
+# LISTED BELOW ARE THE ORDER OF THE TASKS.
 
 Task 0 script that prints “Hello, World”.
 
