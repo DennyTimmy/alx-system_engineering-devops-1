@@ -1,5 +1,5 @@
-#INTRODUCTORY README
-
+==>INTRODUCTORY README<==
+-----
 --> This is the second project of the shell basics and redirection
 
 --> It is the directory containing the shell redirection commands
